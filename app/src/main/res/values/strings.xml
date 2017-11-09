@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Chatter Box</string>
+    <string name="bt_not_enabled_leaving">Bluetooth is disabled</string>
+
+
+    <!--  DeviceListActivity -->
+    <string name="scan">Scanning....</string>
+    <string name="select_device">Please Select a device to connect</string>
+    <string name="notpaired">No paired devices</string>
+    <string name="nodevicesfound">No devices found</string>
+    <string name="titlepaired">List of Paired Devices</string>
+    <string name="otherdevices">Other Available Devices</string>
+    <string name="scanbutton">Quick Scan for Unpaired Devices</string>
+
+    </resources>
